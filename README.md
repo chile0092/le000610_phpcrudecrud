@@ -1,2 +1,5 @@
-# le000610_phpcrudecrud
+# Example LAMP Stack Application
+
+# PHP Crude CRUD App
+
 INET4031 System Admin Sample Dynamic Web Application Code
